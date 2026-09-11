@@ -1,0 +1,1 @@
+This repository demonstrates a collaborative GitHub workflow for research projects.
